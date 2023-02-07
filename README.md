@@ -2,7 +2,7 @@
 
 - 🔭 Junior Full Stack Developer;
 - 🌱 Computer Science Student;
-- 👨🏻‍💻 Java, JavaScript, Angular, Python, C++;
+- 👨🏻‍💻 Java, Typescript, Angular, HTML5, CSS3, PostgreSQL, AWS S3;
 - 📫 Contact: johnatan.2311@gmail.com;
 
 <div align="center">
