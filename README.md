@@ -1,10 +1,9 @@
 ### Olá! Eu sou Johnatan Caetano
 
-- 🔭 Estagiário na WEBSIS como Dev Java
-- 🌱 Estudante de Ciência da Computação
-- 👨🏻‍💻 Java, JavaScript, Angular, Python, C++
-- 📫 Contate-me por johnatan.2311@gmail.com
-- 😄 Pronouns: Ele/dele
+- 🔭 Desenvolvedor Full Stack Júnior;
+- 🌱 Estudante de Ciência da Computação;
+- 👨🏻‍💻 Java, JavaScript, Angular, Python, C++;
+- 📫 Contato: johnatan.2311@gmail.com;
 
 <div align="center">
   <a href="https://github.com/Johnatan-Caetano">
