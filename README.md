@@ -1,4 +1,4 @@
-### Olá! Eu sou Johnatan Caetano
+### Hello! I am Johnatan Caetano!
 
 - 🔭 Junior Full Stack Developer;
 - 🌱 Computer Science Student;
