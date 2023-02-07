@@ -1,9 +1,9 @@
 ### Olá! Eu sou Johnatan Caetano
 
-- 🔭 Desenvolvedor Full Stack Júnior;
-- 🌱 Estudante de Ciência da Computação;
+- 🔭 Junior Full Stack Developer;
+- 🌱 Computer Science Student;
 - 👨🏻‍💻 Java, JavaScript, Angular, Python, C++;
-- 📫 Contato: johnatan.2311@gmail.com;
+- 📫 Contact: johnatan.2311@gmail.com;
 
 <div align="center">
   <a href="https://github.com/Johnatan-Caetano">
