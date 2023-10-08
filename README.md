@@ -1,8 +1,8 @@
 ### Hello! I am Johnatan Caetano!
 
-- 🔭 Junior Full Stack Developer;
+- 🔭 Junior Mobile Developer;
 - 🌱 Computer Science Student;
-- 👨🏻‍💻 Java, Typescript, Angular, Flutter, PostgreSQL;
+- 👨🏻‍💻 Flutter,Android, Java, Typescript, PostgreSQL;
 - 📫 Contact: johnatan.2311@gmail.com;
 
 <div align="center">
@@ -19,7 +19,6 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />       
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />     
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
 
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
      
