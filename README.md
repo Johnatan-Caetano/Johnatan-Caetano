@@ -2,7 +2,7 @@
 
 - 🔭 Junior Mobile Developer;
 - 🌱 Computer Science Student;
-- 👨🏻‍💻 Flutter,Android, Java, Typescript, PostgreSQL;
+- 👨🏻‍💻 Flutter, Android, Java, Typescript, PostgreSQL;
 - 📫 Contact: johnatan.2311@gmail.com;
 
 <div align="center">
