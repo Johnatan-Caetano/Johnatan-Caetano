@@ -1,17 +1,17 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F28705&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3E6C5A&height=120&section=header"/>
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&random=false&color=F2F2F2&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Johnatan+Santos;I+work+as+a+junior+mobile+developer;I'm+from+Brasília,+DF;:%29)](https://git.io/typing-svg)
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Johnatan-Caetano&show_icons=true&count_private=true&hide_border=true&title_color=F28705&icon_color=F2B90F&text_color=c9d1d9&bg_color=0d1117" alt="Johnatan Caetano dos Santos github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johnatan-Caetano&layout=compact&hide_border=true&title_color=F28705&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Johnatan-Caetano&show_icons=true&count_private=true&hide_border=true&title_color=6FB097&icon_color=62E3B1&text_color=c9d1d9&bg_color=0d1117" alt="Johnatan Caetano dos Santos github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johnatan-Caetano&layout=compact&hide_border=true&title_color=6FB097&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Johnatan-Caetano&bg_color=000000&color=F28705&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Johnatan-Caetano&bg_color=000000&color=6FB097&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Johnatan-Caetano&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Johnatan-Caetano&theme=nord&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <div align="center">  
@@ -51,5 +51,5 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Johnatan-Caetano}/count.svg" /></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F28705&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3E6C5A&height=120&section=footer"/>
   
